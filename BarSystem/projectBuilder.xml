@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="barSystem.makejar" default="makejar" basedir=".">
+  <target name ="makejar" description="Create a jar for the BarSystem project">
+    <jar jarfile="BarSystem.jar" includes="*.class" basedir="bin"/>
+  </target>
+</project>
