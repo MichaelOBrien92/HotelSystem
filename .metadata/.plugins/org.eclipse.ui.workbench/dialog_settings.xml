@@ -5,8 +5,8 @@
 		<item value="242" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="580" key="dialogHeight"/>
-		<item value="960" key="dialogWidth"/>
+		<item value="745" key="dialogHeight"/>
+		<item value="1260" key="dialogWidth"/>
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -17,20 +17,11 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.emf.ecore.presentation.EcoreModelWizardID" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.obeonetwork.dsl.uml2.design.wizard1" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.ui.Basic"/>
-			<item value="org.eclipse.birt.report.designer.ui.wizard.category"/>
-			<item value="org.eclipse.datatools.connectivity"/>
-			<item value="org.eclipse.team.cvs.ui.newWizards"/>
-			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
-			<item value="org.eclipse.egit.ui.wizardCategory"/>
-			<item value="org.eclipse.jdt.ui.java"/>
 			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.debug.ui.java"/>
 			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
-			<item value="org.eclipse.datatools.sql"/>
-			<item value="org.eclipse.mylyn.ui.wizards.new"/>
-			<item value="org.eclipse.pde.userAssistance"/>
+			<item value="org.obeonetwork.dsl.uml2.design.category"/>
 			<item value="org.eclipse.wb"/>
 			<item value="org.eclipse.wst.XMLCategory"/>
 		</list>
